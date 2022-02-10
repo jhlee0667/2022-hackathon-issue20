@@ -17,6 +17,6 @@ Pytorch/qiskit packages are required for running the codes.
 ### Quantum machine learning based image classifier 
 - We designed the image classifier using quantum machine learning.
 - Input/target data were obtained from fashion-MNIST.
-- The data with label 0(T-shirt/top) and 1(Trouser) was only used for this code.
+- The data with label 0(T-shirt/top) and 1(Trouser) was only used for this classifier.
 
 Reference: qiskit tutorials (https://qiskit.org/documentation/machine-learning/tutorials/05_torch_connector.html)
