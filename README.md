@@ -1,4 +1,4 @@
-## Team #20, 2022, hackathon-korea
+## Team #20 (Daejeon citizens), 2022, hackathon-korea
 
 Members: @jhlee0667, @Younghun-Ryu, @jevais, @songs-music, and @kifumi (Qiskit mentor)
 
