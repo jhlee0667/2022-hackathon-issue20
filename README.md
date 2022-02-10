@@ -1,6 +1,6 @@
 ## Team #20 (Daejeon citizens), 2022, hackathon-korea
 
-Members: @jhlee0667, @Younghun-Ryu, @jevais, @songs-music, and @kifumi (Qiskit mentor)
+Members: @jhlee0667 @Younghun-Ryu @jevais @songs-music and @kifumi (Qiskit mentor)
 
 
 Our team developed two qnn assisted machine learning models (Quantum calculator and Quantum machine learning based image classifier).
